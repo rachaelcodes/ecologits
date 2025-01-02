@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is a fork I'm using to run analysis using Jupyter notebooks. Please see the [original ecologits repo](https://github.com/genai-impact/ecologits) for the canonical version of this tool.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genai-impact/ecologits/main/docs/assets/logo_dark.png">
